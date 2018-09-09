@@ -1,0 +1,12 @@
+wikipedia_hard: 5.86925 milliseconds, 90/90 (100%) solved
+wikipedia_easy: 3.15941 milliseconds, 100/100 (100%) solved
+nikoli_1: 1.55879 milliseconds, 100/100 (100%) solved
+nikoli_2: 1.86064 milliseconds, 100/100 (100%) solved
+nikoli_3: 2.15607 milliseconds, 100/100 (100%) solved
+nikoli_4: 5.89586 milliseconds, 180/180 (100%) solved
+nikoli_5: 7.27334 milliseconds, 180/180 (100%) solved
+nikoli_6: 5.71406 milliseconds, 180/180 (100%) solved
+nikoli_7: 495.983 milliseconds, 336/336 (100%) solved
+nikoli_8: 316.695 milliseconds, 336/336 (100%) solved
+nikoli_9: 32.7765 seconds, 720/720 (100%) solved
+nikoli_10: 8.4521 seconds, 720/720 (100%) solved
